@@ -84,6 +84,26 @@ Shows the custom HTML webpage successfully running through the S3 website endpoi
 * Configure HTTPS using CloudFront
 * Add a custom domain using Route 53
 
+## Project Screenshots
+
+### 1. S3 Bucket
+
+Shows the S3 bucket containing the website file.
+
+![S3 Bucket](s3-bucket.png)
+
+### 2. Static Website Hosting
+
+Shows Static Website Hosting enabled with `index.html` as the index document.
+
+![Static Website Hosting](s3-index,html.png)
+
+### 3. Live Website
+
+Shows the custom HTML webpage successfully running through the S3 website endpoint.
+
+![Live Website](s3-static-web.png)
+
 ## Author
 
 **Pratik Sambhaji Gorule**
